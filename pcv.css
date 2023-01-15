@@ -1,0 +1,153 @@
+
+.h4, .h1 {
+    font-family: 'Playfair Display', serif;
+
+}
+
+ .parrafoh, .p2, .parrafofinal, .ms, .ms3, .ms4  {
+    font-family: 'Lora', serif;
+}
+
+
+
+ header  {
+    height: 200px;
+    text-align: center;
+    padding: 60px;
+    background-color: black;
+        
+}
+
+.h1 {
+    color: white;
+}
+
+.parrafoh {
+    color: white;
+    font-size: 20px;
+}
+
+
+.foto1 {
+    text-align: center;
+    width: 150px;
+    border-radius: 30%;
+    box-shadow: 5px 8px 12px black;
+    border-color: black; 
+    
+   
+}
+
+.p2 {
+    padding: 15px;
+    font-size: 20px;
+    border: 1px solid black;
+    margin: auto;
+    
+    
+}
+
+.no_mostrar {
+    display: none;
+}
+
+.mostrar {
+    display: block;
+}
+
+
+
+
+.boton {
+    
+    background-color: #4caf50;
+    font: weight 85px;;
+    font-size: 13px;
+    color: white;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:20px;
+    padding-right:20px;
+    box-shadow: 0px 0px 10px 0px #4caf50;
+    cursor: pointer;
+    border: #4caf50;
+    
+}
+
+
+
+h4 {
+    text-align: center;
+    font-size: 30px;
+    background-color: lightgray;
+}
+
+
+
+.ms {
+    box-sizing:  border-box;
+    
+}
+
+.ms {
+    padding: 15px;
+    font-size: 20px;
+    border: 1px solid black;
+    width: 100%;
+    height: 380px;
+    
+}
+
+
+
+.ms3 {
+    padding: 15px;
+    font-size: 20px;
+    border: 1px solid black;
+    height: 150px;
+    
+}
+.ms4 {
+    padding: 15px;
+    font-size: 20px;
+    border: 1px solid black;
+    height: 200px;
+   
+}    
+
+
+
+
+footer {
+    
+    text-align: center;
+    padding: 60px;
+    padding-bottom: 20px;
+    background-color: black;
+    margin-block: 40px;
+}
+
+.parrafofinal {
+    color: white;
+    font-size: 20px;
+    
+}
+
+
+
+
+.fbicon {
+    float: left;
+}
+
+
+
+.twicon {
+    text-align: center;
+}
+
+.igicon {
+    float: right;
+    height: 100px;
+    width: 100px;
+}
